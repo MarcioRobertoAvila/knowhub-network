@@ -1,6 +1,6 @@
 { pkgs }: {
   deps = [
-    pkgs.jdk17_headless
+    pkgs.jdk        # JDK padrão
     pkgs.gradle
     pkgs.git
   ];
