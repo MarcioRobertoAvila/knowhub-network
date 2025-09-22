@@ -1,0 +1,2 @@
+run = "bash -lc 'echo Replit pronto. Adicione o projeto Gradle e rode ./gradlew tasks quando estiver disponível.'"
+entrypoint = "LEIA-ME.md"
